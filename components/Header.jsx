@@ -16,8 +16,9 @@ export default function Header() {
           <div>
             <Image 
               src="/images/profile.jpg"
-              width={40}
-              height={40} className="rounded-full"
+              width={5000}
+              height={5000} 
+              className="w-10 h-10 rounded-full"
               alt="profile"
             />
           </div>

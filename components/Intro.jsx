@@ -53,7 +53,7 @@ export default function Intro() {
           </button>
         </motion.div>
         <motion.div 
-          className="flex justify-center space-x-4 mt-8"
+          className="flex justify-center space-x-4 mt-4 md:mt-8"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }} 
