@@ -67,8 +67,8 @@ export default function Projects() {
             <Image
               src={project.image}
               alt={project.title}
-              width={300}
-              height={200}
+              width={1800}
+              height={900}
               className="w-full"
             />
             <div className="p-6">

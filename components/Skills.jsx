@@ -49,7 +49,7 @@ const database = [
               {frontend.map((skill, index) => (
                 <motion.div
                   key={skill}
-                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] transition-shadow"
+                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] bg-white transition-shadow"
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: index * 0.05 }}
@@ -66,7 +66,7 @@ const database = [
               {backend.map((skill, index) => (
                 <motion.div
                   key={skill}
-                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] transition-shadow"
+                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] bg-white transition-shadow"
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: index * 0.05 }}
@@ -83,7 +83,7 @@ const database = [
               {database.map((skill, index) => (
                 <motion.div
                   key={skill}
-                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] transition-shadow"
+                  className="px-4 py-2 rounded-full shadow-md hover:shadow-lg hover:bg-[#E0F2FE] bg-white transition-shadow"
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: index * 0.05 }}
