@@ -10,7 +10,7 @@ const projects = [
     description: "A fullstack admin dashboard for ecommerce platform",
     image: "/images/projects/dashboard.png",
     tools: "API, ReactJS, NodeJS, MongoDB, Tailwind CSS",
-    github: "https://github.com/thuduongn/ecommerce",
+    github: "https://github.com/thuduongn/admin-dashboard",
     deployment: ""
   },
   {
