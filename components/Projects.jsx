@@ -27,7 +27,7 @@ const projects = [
     title: "Ecommerce Page",
     description: "An ecommerce page allow buyers to search and buy products",
     image: "/images/projects/fashion-ecommerce.png",
-    tools: "ASP.NET MVC, MS SQL, Bootstrap",
+    tools: "C#.NET, ASP.NET MVC, MS SQL, Bootstrap",
     github: "https://github.com/thuduongn/fashion-ecommerce",
     deployment: ""
   },
